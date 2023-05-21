@@ -17,7 +17,9 @@ GEM
     faraday-retry (2.0.0)
       faraday (~> 2.0)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
+    google-protobuf (3.21.12-x64-mingw-ucrt)
     google-protobuf (3.21.12-x86_64-darwin)
     google-protobuf (3.21.12-x86_64-linux)
     http_parser.rb (0.8.0)
@@ -122,6 +124,7 @@ GEM
 
 PLATFORMS
   universal-darwin-21
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
