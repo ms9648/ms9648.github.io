@@ -69,3 +69,6 @@ Putty 클라이언트를 실행하여 인스턴스에 연결합니다.
 
 그런 다음 `Connection` **→** `Auth` **→** `Credentials`에서 `.ppk` 파일을 업로드합니다.
 
+결과는 다음과 같습니다.
+
+<img src = "https://i.postimg.cc/XqSDfJvP/Connect-instance.jpg" style="width: 60%; height: 400px; display: block; margin: 0 auto;"/>
